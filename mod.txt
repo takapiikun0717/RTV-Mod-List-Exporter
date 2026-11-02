@@ -1,0 +1,8 @@
+[mod]
+name="Mod List Exporter"
+id="mod-list-exporter"
+version="1.1.2"
+description="有効/無効のmod一覧と総数を mod_list.txt に書き出します(起動時 + MCMで変更できる再出力キー、既定F8)"
+
+[autoload]
+ModListExporter="res://ModListExporter/Main.gd"
